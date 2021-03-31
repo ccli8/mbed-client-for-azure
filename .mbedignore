@@ -7,6 +7,7 @@ azure-iot-sdk-c/iothub_client/src/iothubtransportmqtt_websockets.c
 azure-iot-sdk-c/iothub_client/tests/*
 azure-iot-sdk-c/iothub_service_client/*
 azure-iot-sdk-c/provisioning_client/adapters/hsm_client_http_edge.*
+azure-iot-sdk-c/provisioning_client/adapters/hsm_client_key.*
 azure-iot-sdk-c/provisioning_client/adapters/hsm_client_riot.*
 azure-iot-sdk-c/provisioning_client/adapters/hsm_client_tpm.*
 azure-iot-sdk-c/provisioning_client/samples/*

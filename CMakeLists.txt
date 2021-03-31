@@ -113,7 +113,6 @@ target_sources(mbed-client-for-azure
         azure-iot-sdk-c/iothub_client/src/iothub_message.c
         azure-iot-sdk-c/iothub_client/src/iothub_client_edge.c
         azure-iot-sdk-c/iothub_client/src/iothub_client_core.c
-        azure-iot-sdk-c/provisioning_client/adapters/hsm_client_key.c
         azure-iot-sdk-c/provisioning_client/adapters/hsm_client_data.c
         azure-iot-sdk-c/provisioning_client/src/prov_transport_mqtt_client.c
         azure-iot-sdk-c/provisioning_client/src/prov_security_factory.c
