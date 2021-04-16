@@ -1,0 +1,6 @@
+{
+    "name": "azure-ota-mbedbl",
+    "macros" : [
+        "ADUC_USE_XLOGGING=1"
+    ]
+}
